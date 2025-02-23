@@ -1,8 +1,8 @@
 **Assignment 6 Diagram References**
 - _Browse the web using Safari on iPhone._ (n.d.). Apple Support. https://support.apple.com/guide/iphone/browse-the-web-iph1fbef4daa/ios
-- Moyela, Tobi. (2023, March 27). _Low-Fidelity Wireframing Steps & Examples._https://devsquad.com/blog/low-fidelity-wireframing
-- Pressman, R. S., & Maxim, B. R. (2020)._ Software Engineering: A Practitioner’s Approach, Ninth Edition. _McGraw-Hill Education.
-- Sammy, K. (2024, February 7). Low Fidelity Wireframes [What are they + Examples] - Alvaro Trigo's Blog. _Alvaro Trigo\’s Blog. _https://alvarotrigo.com/blog/low-fidelity-wireframes/
+- Moyela, Tobi. (2023, March 27). _Low-Fidelity Wireframing Steps & Examples._ https://devsquad.com/blog/low-fidelity-wireframing
+- Pressman, R. S., & Maxim, B. R. (2020). _Software Engineering: A Practitioner’s Approach, Ninth Edition._ McGraw-Hill Education.
+- Sammy, K. (2024, February 7). Low Fidelity Wireframes [What are they + Examples] - Alvaro Trigo's Blog. _Alvaro Trigo\’s Blog._ https://alvarotrigo.com/blog/low-fidelity-wireframes/
 - Thakur, A., & Thakur, A. (2024, October 15). _How to customize and personalize Safari on iPhone and iPad._ iDownloadBlog.com. https://www.idownloadblog.com/2022/06/03/how-to-personalize-safari-on-iphone/
 - UXWing. (2021, December 29). _Jam Jar icon PNG and SVG Vector Free Download._ UXWing. https://uxwing.com/jam-jar-icon/
 
